@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# miguelgdd2
+#
+
+projectname: miguelgdd2
+vendorid: com.mycompany
+mainmodule: com.mycompany.miguelgdd2
